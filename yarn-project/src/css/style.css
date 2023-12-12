@@ -1,0 +1,712 @@
+div.ems-field.col-6.col-lg-6.mb-2.mb-lg-2.mt-0.py-3 {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color: rgba(0, 0, 0, 0);
+    bottom: 0;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    display: block;
+    flex: 0 0 auto;
+    flex-shrink: 0;
+    font-family: DINPro, arial, sans-serif;
+    font-size: 15px;
+    height: 60.5px;
+    left: 0;
+    line-height: 19.5px;
+    margin: 0 0 10px;
+    max-width: 100%;
+    min-height: auto;
+    min-width: auto;
+    padding: 16px;
+    position: relative;
+    right: 0;
+    text-align: left;
+    top: 0;
+    width: 170.984px;
+  }
+  
+  label.fs-13.fw-500.font-fira.color-dark.mb-1.required {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    box-sizing : border-box;
+    color : rgb(31, 33, 35);
+    cursor : default;
+    display : inline-block;
+    font-family : FiraSans;
+    font-size : 13px;
+    font-weight : 500;
+    height : 20.8906px;
+    line-height : 16.9px;
+    margin : 0px 0px 5px;
+    outline : rgb(31, 33, 35) none 0px;
+    text-align : left;
+    text-decoration : none solid rgb(31, 33, 35);
+    width : 60.0625px;
+  }
+  
+  button.btn.btn-dark.them-btn.w-100 {
+    align-items : flex-start;
+    appearance : button;
+    background : rgb(30, 33, 37) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgb(30, 33, 37);
+  
+    bottom : 0px;
+    box-sizing : border-box;
+    color : rgb(255, 255, 255);
+    cursor : pointer;
+    display : inline-block;
+    font-family : DINPro;
+    font-weight : 600;
+    height : 47px;
+    left : 0px;
+    letter-spacing : 1px;
+    line-height : 43px;
+    outline : rgb(255, 255, 255) none 0px;
+    padding : 0px 20px;
+    position : relative;
+    right : 0px;
+    text-align : center;
+    text-decoration : none solid rgb(255, 255, 255);
+    top : 0px;
+    transition : all 0.32s ease 0s;
+    transition-duration : 0.32s;
+    vertical-align : middle;
+    width : 309.984px;
+  }
+  
+  span {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    border : 0px none rgb(255, 255, 255);
+    box-sizing : border-box;
+    color : rgb(255, 255, 255);
+    cursor : pointer;
+    display : inline;
+    font-family : DINPro;
+    font-weight : 600;
+    height : auto;
+    letter-spacing : 1px;
+    line-height : 43px;
+    outline : rgb(255, 255, 255) none 0px;
+    text-align : center;
+    text-decoration : none solid rgb(255, 255, 255);
+    text-transform : uppercase;
+    width : auto;
+  }
+  
+  div.d-flex.mx-auto.justify-content-center {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    box-sizing : border-box;
+    color : rgb(31, 33, 35);
+    display : flex;
+    font-family : DINPro, arial, sans-serif;
+    border : 1px solid rgb(202, 198, 198);
+    font-size : 15px;
+    height : 45px;
+    justify-content : center;
+    line-height : 19.5px;
+    text-align : left;
+    width : 309.984px;
+    font-weight : 600;
+    padding : 0px 40px;
+    position : relative;
+    
+  }
+  div.mx-auto.justify-content-center {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    box-sizing : border-box;
+    color : rgb(31, 33, 35);
+    display : flex;
+    font-family : DINPro, arial, sans-serif;
+    font-size : 15px;
+    height : 35px;
+    justify-content : center;
+    line-height : 19.5px;
+    text-align : left;
+    width : 309.984px;
+    font-weight : 200;
+    padding : 0px 40px;
+    position : relative;
+    
+  }
+  a.them-btn.color-dark.border.border-opacity-50.px-5.px-lg-7.d-flex.align-items-center.justify-content-center {
+    align-items : center;
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    border : 1px solid rgb(129, 122, 121);
+    box-sizing : border-box;
+    color : rgb(31, 33, 35);
+    cursor : pointer;
+    display : flex;
+    font-family : DINPro;
+    font-weight : 600;
+    height : auto;
+    justify-content : center;
+    letter-spacing : 1px;
+    line-height : 43px;
+    outline : rgb(31, 33, 35) none 0px;
+    padding : 0px 40px;
+    position : relative;
+    text-align : left;
+    text-decoration : none solid rgb(31, 33, 35);
+    transition : all 0.32s ease 0s;
+    transition-duration : 0.32s;
+    width : auto;
+  }
+  
+  a.them-btn.color-dark.border.border-gray.border-opacity-50.px-5.px-lg-7.d-flex.align-items-center.justify-content-center {
+    align-items : center;
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    border : 1px solid rgb(202, 198, 198);
+    bottom : 0px;
+    box-sizing : border-box;
+    color : rgb(31, 33, 35);
+    cursor : pointer;
+    display : flex;
+    font-family : DINPro;
+    font-weight : 600;
+    height : 45px;
+    justify-content : center;
+    left : 0px;
+    letter-spacing : 1px;
+    line-height : 43px;
+    min-height : auto;
+    min-width : auto;
+    outline : rgb(31, 33, 35) none 0px;
+    padding : 0px 40px;
+    position : relative;
+    right : 0px;
+    text-align : left;
+    text-decoration : none solid rgb(31, 33, 35);
+    top : 0px;
+    transition : all 0.32s ease 0s;
+    transition-duration : 0.32s;
+    width : 223px;
+  }
+  
+  a.btn.btn-dark.them-btn.w-100 {
+    background : rgb(33, 37, 41) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgb(33, 37, 41);
+    bottom : 0px;
+    box-sizing : border-box;
+    color : rgb(255, 255, 255);
+    cursor : pointer;
+    display : inline-block;
+    font-family : DINPro;
+    font-weight : 600;
+    height : 47px;
+    left : 0px;
+    letter-spacing : 1px;
+    line-height : 43px;
+    outline : rgb(255, 255, 255) none 0px;
+    padding : 0px 20px;
+    position : relative;
+    right : 0px;
+    text-align : center;
+    text-decoration : none solid rgb(255, 255, 255);
+    top : 20px;
+    transition : all 0.32s ease 0s;
+    transition-duration : 0.32s;
+    vertical-align : middle;
+    width : 309.984px;
+  }
+  
+  
+  div.col-6.col-lg-6.ems-field.mb-2.mb-lg-2.mt-0.py-4.text-end a.text-black-50 {
+     text-decoration: none;
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    bottom : 0px;
+    box-sizing : border-box;
+    color : rgb(0, 0, 0);
+    display : block;
+    flex : 0 0 auto;
+    flex-shrink : 0;
+    font-family : DINPro, arial, sans-serif;
+    font-size : 15px;
+    height : 64.5px;
+    left : -20px;
+    line-height : 19.5px;
+    margin : 0px 0px 10px;
+    max-width : 100%;
+    min-height : auto;
+    min-width : auto;
+    padding : 20px 16px;
+    position : relative;
+    right : 0px;
+    text-align : right;
+    top : 0px;
+    width : 170.984px;
+  }
+  
+  div.ems-form-obj {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    box-sizing : border-box;
+    color : rgb(0, 0, 0);
+    display : block;
+    font-family : DINPro, arial, sans-serif;
+    font-size : 15px;
+    height : auto;
+    line-height : 19.5px;
+    text-align : right;
+    width : auto;
+  }
+  
+  a.text-black-50.fw-400.font-fira {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    box-sizing : border-box;
+    color : rgb(0, 0, 0);
+    cursor : pointer;
+    display : inline;
+    font-family : FiraSans;
+    font-size : 15px;
+    height : auto;
+    line-height : 19.5px;
+    text-align : right;
+    transition : all 0.2s ease 0s;
+    transition-duration : 0.2s;
+    width : auto;
+  }
+  
+  span.text-dark.fs-14 {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    border : 0px none rgb(33, 37, 41);
+    box-sizing : border-box;
+    color : rgb(33, 37, 41);
+    cursor : pointer;
+    display : inline;
+    font-family : FiraSans;
+    font-size : 14px;
+    height : auto;
+    line-height : 18.2px;
+    outline : rgb(33, 37, 41) none 0px;
+    text-align : right;
+    text-decoration : none solid rgb(33, 37, 41);
+    width : auto;
+  }
+  
+  
+  div.form-check {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    box-sizing : border-box;
+    color : rgb(0, 0, 0);
+    display : block;
+    font-family : DINPro, arial, sans-serif;
+    font-size : 15px;
+    height : 25.5px;
+    line-height : 19.5px;
+    margin : 10px 10px 2px;
+    min-height : 22.4px;
+    padding : 12px 0px 0px 22.5px;
+    text-align : left;
+    width : 338.984px;
+  }
+  
+  input.form-check-input.bg-white.border-dark.rounded-0.fs-15 {
+    background : rgb(255, 255, 255) none no-repeat scroll 50% 50% / contain padding-box border-box;
+    background-color : rgb(255, 255, 255);
+    background-repeat : no-repeat;
+    background-size : contain;
+    border : 1px solid rgb(33, 37, 41);
+    box-sizing : border-box;
+    color : rgb(0, 0, 0);
+    cursor : default;
+    display : block;
+    float : left;
+    font-family : DINPro, arial, sans-serif;
+    font-size : 15px;
+    height : 15px;
+    line-height : 19.5px;
+    margin : 3px 0px 0px -22.5px;
+    
+    width : 15px;
+  }
+  
+  label.form-check-label.fs-15.fw-400.font-fira.color-dark.lh-1.mt-1.m-0.p-0 {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    border : 0px none rgb(31, 33, 35);
+    box-sizing : border-box;
+    color : rgb(31, 33, 35);
+    cursor : default;
+    display : inline-block;
+    font-family : FiraSans;
+    font-size : 15px;
+    height : 15px;
+    line-height : 15px;
+    margin : 5px 0px 0px;
+    outline : rgb(31, 33, 35) none 0px;
+    text-align : left;
+    text-decoration : none solid rgb(31, 33, 35);
+    width : 79.1562px;
+  }
+  
+  input.form-check-input.bg-white.border.border-dark.rounded-0.fs-15 {
+    background : rgb(255, 255, 255) none no-repeat scroll 50% 50% / contain padding-box border-box;
+    background-color : rgb(255, 255, 255);
+    background-repeat : no-repeat;
+    background-size : contain;
+    border : 1px solid rgb(33, 37, 41);
+    box-sizing : border-box;
+    color : rgb(0, 0, 0);
+    cursor : default;
+    display : block;
+    float : left;
+    font-family : DINPro, arial, sans-serif;
+    font-size : 15px;
+    height : 15px;
+    line-height : 19.5px;
+    margin : 3px 0px 0px -22.5px;
+    
+    width : 15px;
+  }
+  
+  div.ems-field-feedback.position-relative {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    border : 0px none rgb(220, 53, 69);
+    box-sizing : border-box;
+    color : rgb(220, 53, 69);
+    display : none;
+    font-family : FiraSans;
+    font-size : 10px;
+    height : auto;
+    line-height : 13px;
+    margin : 5px 0px 0px;
+    outline : rgb(220, 53, 69) none 0px;
+    position : relative;
+    text-align : left;
+    text-decoration : none solid rgb(220, 53, 69);
+    width : auto;
+  }
+  
+  label.fs-15.fw-400.font-fira.color-dark.mb-1.required {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    border : 0px none rgb(31, 33, 35);
+    box-sizing : border-box;
+    color : rgb(31, 33, 35);
+    cursor : default;
+    display : inline-block;
+    font-family : FiraSans;
+    font-size : 15px;
+    height : auto;
+    line-height : 19.5px;
+    margin : 0px 0px 5px;
+    outline : rgb(31, 33, 35) none 0px;
+    text-align : left;
+    text-decoration : none solid rgb(31, 33, 35);
+    width : auto;
+  }
+  
+  a.text-underline.gray-txt.lgn-txt {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    border : 0px none rgb(33, 37, 41);
+    box-sizing : border-box;
+    color : rgb(33, 37, 41);
+    cursor : pointer;
+    display : inline;
+    font-family : FiraSans;
+    font-size : 14px;
+    height : auto;
+    line-height : 21px;
+    outline : rgb(33, 37, 41) none 0px;
+    text-align : left;
+    text-decoration : none solid rgb(33, 37, 41);
+    transition : all 0.2s ease 0s;
+    transition-duration : 0.2s;
+    width : auto;
+  }
+  
+  strong {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    border : 0px none rgb(33, 37, 41);
+    box-sizing : border-box;
+    color : rgb(33, 37, 41);
+    cursor : pointer;
+    display : inline;
+    font-family : FiraSans;
+    font-size : 14px;
+    font-weight : 700;
+    height : auto;
+    line-height : 21px;
+    outline : rgb(33, 37, 41) none 0px;
+    text-align : left;
+    text-decoration : none solid rgb(33, 37, 41);
+    width : auto;
+  }
+  
+  label.fs-15.fw-400.font-fira.color-dark.mb-1 {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    border : 0px none rgb(31, 33, 35);
+    box-sizing : border-box;
+    color : rgb(31, 33, 35);
+    cursor : default;
+    display : inline-block;
+    font-family : FiraSans;
+    font-size : 15px;
+    height : auto;
+    line-height : 19.5px;
+    margin : 0px 0px 5px;
+    outline : rgb(31, 33, 35) none 0px;
+    text-align : left;
+    text-decoration : none solid rgb(31, 33, 35);
+    width : auto;
+  }
+  
+  label.form-check-label.font-fira.fs-14.me-20 {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    border : 0px none rgb(129, 122, 121);
+    box-sizing : border-box;
+    color : rgb(129, 122, 121);
+    cursor : default;
+    display : inline-block;
+    font-family : FiraSans;
+    font-size : 14px;
+    height : 42px;
+    line-height : 21px;
+    margin : 0px 20px 0px 0px;
+    outline : rgb(129, 122, 121) none 0px;
+    text-align : left;
+    text-decoration : none solid rgb(129, 122, 121);
+    width : 575.484px;
+  }
+  
+  
+  a.nav-link.text-uppercase.selected{
+  background-color : rgba(0, 0, 0, 0);
+  color : rgb(0, 0, 0);
+  display : inline-block;
+  font-size : 14px;
+  font-weight : 700;
+  height : 40px;
+  padding : 0px 20px;
+  position : relative;
+  width : 114.312px;
+  background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+  border : 1px solid rgb(201, 201, 201);
+  bottom : 0px;
+  box-sizing : border-box;
+  cursor : pointer;
+  font-family : DINPro, arial, sans-serif;
+  left : 0px;
+  letter-spacing : 1px;
+  line-height : 38px;
+  list-style : outside none none;
+  list-style-type : none;
+  right : 0px;
+  text-align : left;
+  text-transform : uppercase;
+  top : 0px;
+  transition : all 0.32s ease 0s;
+  transition-duration : 0.32s
+  }
+
+  div.col-12.col-lg-12.ems-field.mb-2.mb-lg-3.mt-0 {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    bottom : 0px;
+    box-sizing : border-box;
+    color : rgb(0, 0, 0);
+    display : block;
+    flex : 0 0 auto;
+    flex-shrink : 0;
+    font-family : DINPro, arial, sans-serif;
+    font-size : 15px;
+    height : 72.8906px;
+    left : 0px;
+    line-height : 19.5px;
+    margin : 0px 0px 16px;
+    max-width : 100%;
+    min-height : auto;
+    min-width : auto;
+    padding : 0px 16px;
+    position : relative;
+    right : 0px;
+    text-align : left;
+    top : 0px;
+    width : 341.984px;
+  }
+  
+  label.fs-13.fw-500.font-fira.color-dark.mb-1.required {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    border : 0px none rgb(31, 33, 35);
+    box-sizing : border-box;
+    color : rgb(31, 33, 35);
+    cursor : default;
+    display : inline-block;
+    font-family : FiraSans;
+    font-size : 13px;
+    font-weight : 500;
+    height : 16.8906px;
+    line-height : 16.9px;
+    margin : 0px 0px 5px;
+    outline : rgb(31, 33, 35) none 0px;
+    text-align : left;
+    text-decoration : none solid rgb(31, 33, 35);
+    width : 87.2969px;
+  }
+  
+  input.form-control {
+    background : rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgb(255, 255, 255);
+    border : 1px solid rgb(201, 201, 201);
+    box-sizing : border-box;
+    color : rgb(0, 0, 0);
+    cursor : text;
+    display : block;
+    font-family : FiraSans;
+    font-size : 15px;
+    height : 44px;
+    letter-spacing : 0.7px;
+    line-height : 19.5px;
+    min-height : 44px;
+    padding : 10px 15px;
+    transition : border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+    transition-delay : 0s, 0s;
+    transition-duration : 0.15s, 0.15s;
+    transition-property : border-color, box-shadow;
+    transition-timing-function : ease-in-out, ease-in-out;
+    width : 309.984px;
+  }
+  
+  div.ems-field-feedback.position-relative {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    border : 0px none rgb(220, 53, 69);
+    box-sizing : border-box;
+    color : rgb(220, 53, 69);
+    display : none;
+    font-family : FiraSans;
+    font-size : 10px;
+    height : auto;
+    line-height : 13px;
+    margin : 5px 0px 0px;
+    outline : rgb(220, 53, 69) none 0px;
+    position : relative;
+    text-align : left;
+    text-decoration : none solid rgb(220, 53, 69);
+    width : auto;
+  }
+  
+  label.form-label.fs-13.fw-500.font-fira.color-dark.mb-1 {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    border : 0px none rgb(31, 33, 35);
+    box-sizing : border-box;
+    color : rgb(31, 33, 35);
+    cursor : default;
+    display : inline-block;
+    font-family : FiraSans;
+    font-size : 13px;
+    font-weight : 500;
+    height : 16.8906px;
+    line-height : 16.9px;
+    margin : 0px 0px 5px;
+    outline : rgb(31, 33, 35) none 0px;
+    text-align : left;
+    text-decoration : none solid rgb(31, 33, 35);
+    width : 46.9844px;
+  }
+  
+  select.form-select.form-control {
+    align-items : center;
+    background : rgb(255, 255, 255) url("https://hcdn.kartalyuvasi.com.tr/kartalyuvasi/frontend/images/caret-down-fill.svg") no-repeat scroll right 12px 50% / 22px 8px padding-box padding-box;
+    background-clip : padding-box;
+    background-color : rgb(255, 255, 255);
+    background-image : url("https://hcdn.kartalyuvasi.com.tr/kartalyuvasi/frontend/images/caret-down-fill.svg");
+    background-repeat : no-repeat;
+    background-size : 22px 8px;
+    border : 1px solid rgb(201, 201, 201);
+    box-sizing : border-box;
+    color : rgb(0, 0, 0);
+    cursor : default;
+    display : block;
+    font-family : FiraSans;
+    font-size : 15px;
+    height : 44px;
+    letter-spacing : 0.7px;
+    line-height : 19.5px;
+    min-height : 44px;
+    padding : 10px 15px;
+    transition : border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+    transition-delay : 0s, 0s;
+    transition-duration : 0.15s, 0.15s;
+    transition-property : border-color, box-shadow;
+    transition-timing-function : ease-in-out, ease-in-out;
+    white-space : pre;
+    width : 309.984px;
+  }
+  
+  option {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    box-sizing : border-box;
+    color : rgb(0, 0, 0);
+    cursor : default;
+    display : block;
+    font-family : FiraSans;
+    font-size : 15px;
+    height : auto;
+    letter-spacing : 0.7px;
+    line-height : 19.5px;
+    min-height : 18px;
+    padding : 0px 2px 1px;
+    white-space : nowrap;
+    width : auto;
+  }
+  
+  input.form-control.custom-phone-masker {
+    background : rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgb(255, 255, 255);
+    border : 1px solid rgb(201, 201, 201);
+    box-sizing : border-box;
+    color : rgb(0, 0, 0);
+    cursor : text;
+    display : block;
+    font-family : FiraSans;
+    font-size : 15px;
+    height : 44px;
+    letter-spacing : 0.7px;
+    line-height : 19.5px;
+    min-height : 44px;
+    padding : 10px 15px;
+    transition : border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+    transition-delay : 0s, 0s;
+    transition-duration : 0.15s, 0.15s;
+    transition-property : border-color, box-shadow;
+    transition-timing-function : ease-in-out, ease-in-out;
+    width : 309.984px;
+  }
+  
+  label.fs-13.fw-500.font-fira.color-dark.mb-1.required {
+    background : rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color : rgba(0, 0, 0, 0);
+    box-sizing : border-box;
+    color : rgb(31, 33, 35);
+    cursor : default;
+    display : inline-block;
+    font-family : FiraSans;
+    font-size : 13px;
+    font-weight : 500;
+    height : 20.8906px;
+    line-height : 16.9px;
+    margin : 0px 0px 5px;
+    outline : rgb(31, 33, 35) none 0px;
+    text-align : left;
+    text-decoration : none solid rgb(31, 33, 35);
+    width : 95.5469px;
+  }
+  
+  
