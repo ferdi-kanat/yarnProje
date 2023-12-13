@@ -1,13 +1,16 @@
 <template>
-  <SwiperSlider />
+  <header>
+    <h1>Benim Başlık</h1>
+    <!-- Başka başlık içeriği ekleyebilirsiniz -->
+  </header>
 </template>
 
 <script>
-import SwiperSlider from 'components/SwiperSlider.vue';
-
 export default {
-  components: {
-    SwiperSlider,
-  },
+  // Bileşenin içinde gerekirse JavaScript kodu ekleyebilirsiniz
 };
 </script>
+
+<style scoped>
+/* Bileşene özgü stil ekleyebilirsiniz */
+</style>

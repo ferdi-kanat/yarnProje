@@ -9,6 +9,7 @@ const routes: RouteRecordRaw[] = [
        { path: 'comp2', component: () => import('components/TheComp2.vue') },
        { path: 'comp3', component: () => import('components/TheComp3.vue') },
        { path: 'comp4', component: () => import('components/TheComp4.vue') },
+       { path: 'comp6', component: () => import('components/TheComp6.vue') },
        { path: 'comp5', component: () => import('components/TheComp5.vue') } ],
   },
   // Always leave this as last one,

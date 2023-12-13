@@ -80,6 +80,12 @@ const componentLinks: ComponentLinkProps[] = [
     caption: '@quasarframework',
     icon: 'rss_feed',
     link: '/comp5'
+  },
+  {
+    title: 'component6',
+    caption: 'github.com/quasarframework',
+    icon: 'code',
+    link: '/comp6'
   }
 ];
 
